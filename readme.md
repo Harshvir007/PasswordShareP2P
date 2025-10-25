@@ -38,6 +38,10 @@ Each message uses a unique initialization vector
 Passwords are encrypted before transmission
 
 To Run:
+
 bashjavac P2PPasswordShare.java
+
 java P2PPasswordShare
+
+
 Run two instances to test the connection between peers!RetryClaude does not have the ability to run the code it generates yet.
